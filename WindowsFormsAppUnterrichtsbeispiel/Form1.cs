@@ -19,7 +19,7 @@ namespace WindowsFormsAppUnterrichtsbeispiel
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hallo");//Änderung
+            MessageBox.Show("Hallo Katrin");//Änderung
         }
     }
 }
